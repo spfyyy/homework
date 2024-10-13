@@ -1,0 +1,3 @@
+[submodule "cpuenhance/materials"]
+	path = cpuenhance/materials
+	url = https://github.com/cmuratori/computer_enhance.git
